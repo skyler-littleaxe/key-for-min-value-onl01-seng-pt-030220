@@ -3,9 +3,10 @@
 
 def key_for_min_value(name_hash)
   smallest_box_label = nil
-  smallest_box_label
+  smallest_box_size = nil
+  name_hash.each do |k, v|
   
-
+end
 end
 
 # INPUT -> hash
