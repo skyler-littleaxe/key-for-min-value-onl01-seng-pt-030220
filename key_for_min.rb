@@ -5,3 +5,6 @@ def key_for_min_value(name_hash)
   
 
 end
+
+# INPUT -> hash
+# OUTPUT -> Number which is the smallest value in the input hash
